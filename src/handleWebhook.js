@@ -4,8 +4,6 @@ import config from "./config";
 const client = Binance.default({
   apiKey: config.apiKey,
   apiSecret: config.apiSecret,
-  httpFutures: "https://testnet.binancefuture.com", // For testing
-  httpBase: "https://testnet.binance.vision", // For testing
 });
 
 const pricePrecision = {
