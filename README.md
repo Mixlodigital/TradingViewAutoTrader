@@ -1,6 +1,6 @@
 # NAWASHI #
 
-
+Trading Bot - Webhook - EC2 instance
 
 
 -------------------------------
